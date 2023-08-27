@@ -39,6 +39,7 @@ print("This will be printed immediately.", flush=True)
 
 ```
 ```python
+#Output
 @satishkarki ➜ /workspaces/HarvardCS50 (main) $ python hello.py
 Hello, world!
 Name: Alice Age: 30
